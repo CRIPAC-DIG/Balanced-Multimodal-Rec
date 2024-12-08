@@ -12,9 +12,9 @@ Please refer to [this link](https://github.com/CRIPAC-DIG/LATTICE/blob/main/READ
 Start training and inference as:
 ```bash
 cd codes
-# train visual teacher model
-python train_unimodal.py --dataset baby  --model_name VBPR --train_type 2 --save_model 1
 # train textual teacher model
+python train_unimodal.py --dataset baby  --model_name VBPR --train_type 2 --save_model 1
+# train visual teacher model
 python train_unimodal.py --dataset baby  --model_name VBPR --train_type 3 --save_model 1
 # train multimodal student model
 python train_kd.py --dataset baby  --model_name VBPR  
