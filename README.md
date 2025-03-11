@@ -1,5 +1,5 @@
 # Modality-Balanced Learning for Multimedia Recommendation
-This is the code for the ACM Multimedia 2021 Paper: [Modality-Balanced Learning for Multimedia Recommendation](https://dl.acm.org/doi/10.1145/3664647.3680626).
+This is the code for the ACM Multimedia 2024 Paper: [Modality-Balanced Learning for Multimedia Recommendation](https://dl.acm.org/doi/10.1145/3664647.3680626).
 
 ## Requirements
 - Python 3.8
